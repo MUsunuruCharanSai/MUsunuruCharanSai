@@ -22,7 +22,7 @@ I'm a technology graduate and **Software Engineer at Volteo Maritime**, building
 - 🌱 Exploring **LangChain**, **N8N (AI workflow automation)**, and open-source LLMs
 - 💼 Experienced across the full SDLC — design, development, testing, and deployment
 - 🎯 Passionate about clean code, scalable architecture, and delivering quality-focused solutions
-- ⚡ Willing to work in rotational shifts and support global client deliverables
+- ⚡ Willing to work in rotational shifts and support global client deliverables.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&width=100%25" width="100%"/>
